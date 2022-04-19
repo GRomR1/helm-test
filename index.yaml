@@ -3,12 +3,12 @@ entries:
   helm-stress:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2022-04-19T21:43:47.528554+03:00"
+    created: "2022-04-19T21:47:58.148685+03:00"
     description: A Helm chart for Kubernetes
     digest: 6ea883c44216debbb379800ef159a15b43963a804f99448db16b8131c02982ac
     name: helm-stress
     type: application
     urls:
-    - https://gromr1.github.io/helm-test/helm-stress-0.1.0.tgz
+    - https://gromr1.github.io/helm-test/helm-test/helm-stress-0.1.0.tgz
     version: 0.1.0
-generated: "2022-04-19T21:43:47.527832+03:00"
+generated: "2022-04-19T21:47:58.147523+03:00"
